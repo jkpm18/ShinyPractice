@@ -4,4 +4,5 @@ Here's the link to the published app:
 https://kirkmason.shinyapps.io/shinyLab/
 
 
-
+And here's a link to Hadley Wickham's book:
+https://mastering-shiny.org/basic-app.html
